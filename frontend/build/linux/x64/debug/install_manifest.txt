@@ -4,6 +4,7 @@
 /home/sengupta/PycharmProjects/medical-frontend/frontend/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
 /home/sengupta/PycharmProjects/medical-frontend/frontend/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
 /home/sengupta/PycharmProjects/medical-frontend/frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/sengupta/PycharmProjects/medical-frontend/frontend/build/linux/x64/debug/bundle/data/flutter_assets/assets/background_image.png
 /home/sengupta/PycharmProjects/medical-frontend/frontend/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
 /home/sengupta/PycharmProjects/medical-frontend/frontend/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
 /home/sengupta/PycharmProjects/medical-frontend/frontend/build/linux/x64/debug/bundle/data/flutter_assets/version.json
