@@ -3,10 +3,12 @@ import 'package:flutter/material.dart';
 import 'pages/landing_page.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return BackgroundImageHaze(
@@ -29,7 +31,7 @@ class BackgroundImageHaze extends StatelessWidget {
   final Alignment? alignment;
   final Widget child;
 
-  BackgroundImageHaze({required this.alignment, required this.child});
+  const BackgroundImageHaze({super.key, required this.alignment, required this.child});
 
   @override
   Widget build(BuildContext context) {

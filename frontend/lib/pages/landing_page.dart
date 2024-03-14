@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 class LoginPage extends StatelessWidget {
   bool _passwordVisible = false;
+
+  LoginPage({super.key});
   bool flipState() {
     _passwordVisible = !_passwordVisible;
     return _passwordVisible;
